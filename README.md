@@ -22,7 +22,7 @@ Nota: No utilice la función 𝑝𝑜𝑤() de la biblioteca math.h para calcula
 
  5. Escriba un programa que mediante dos funciones convierta de grados centígrados a Fahrenheit y de Fahrenheit a Centígrados, dependiendo de la opción que proporcione el usuario.
  
- 6. Escriba un programa que solicite el peso (Kg) y la altura (mts) de una persona y calcule su índice de masa corporal (IMC). Con base en este resultado, el programa deberá informar que clasificación pertenece dicha persona:$$IMC=\frac{Peso(kg)}{Estatura^{2}(Mts.)}$$
+ 6. Escriba un programa que solicite el peso (Kg) y la altura (mts) de una persona y calcule su índice de masa corporal (IMC). Con base en este resultado, el programa deberá informar que clasificación pertenece dicha persona: $$IMC=\frac{Peso(kg)}{Estatura^{2}(Mts.)}$$
  
 |Indice de Masa Corporal (IMC)|Clasificación|
 |--|--|
